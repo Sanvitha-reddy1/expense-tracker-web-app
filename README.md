@@ -58,7 +58,7 @@ expense-tracker
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/expense-tracker-web-app.git
+git clone https://github.com/Sanvitha-reddy1/expense-tracker-web-app.git
 ```
 
 ### 2. Navigate to the project directory
